@@ -1,4 +1,4 @@
-# { name } resume
+# daiki's resume
 
 ## Sample
 
