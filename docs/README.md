@@ -25,6 +25,8 @@
 
 - Unity + C# での簡単なゲーム開発
 - C# + .NET での GUI アプリケーションの開発
+- レイヤードアーキテクチャを意識した開発 / 設計
+- SOLID 原則を意識した開発 / 設計
 - SQLServer での StoredProcedure、関数を利用してサーバーロジックの作成
 - GitHub での issue ベースのチーム開発
 - AffterEffects での動画作成（簡単なアニメーション、トランジションなど）
@@ -38,6 +40,8 @@
 - Visual Basic 9.0, 15.5
 - T-SQL
 - Ruby 2.6.7
+
+<div style="page-break-before:always"></div>
 
 ### フレームワーク・その他
 - .NET Framework 4.6, 4.8
@@ -76,6 +80,7 @@
 - Affinity Designer
 
 ---
+<div style="page-break-before:always"></div>
 
 ## 職務経歴詳細
 
@@ -89,8 +94,6 @@
   - C#7.3 + .NETFramework4.8 での WinForms アプリの開発
   - EntityFramework6.0.0 を使用してのコードファーストな設計
   - Visual C++ 2008(C89) でのキーエンス製 OS 用 GUI アプリの開発
-
-<div style="page-break-before:always"></div>
 
 - 2020/05 - 2021/01 在庫管理システム新規開発/導入
   - VB9.0 + .NETCompactFramework3.5 での WindowsCE 用 WinForms アプリの開発
@@ -111,20 +114,39 @@
 ### 株式会社コトブキソリューション（2018 / 04〜2018 / 11）
 - VB6 で開発された金融システムの改修、デバッグ
 
-## 業務外活動
-- unityroom 開発
-  - Ruby on Rails での Web アプリの開発の支援、バグ修正など
-  
-- Unity + C# でのゲーム開発
-  - PlayFab を利用した探しモノ回収ゲームの作成 3 人での共同制作（2 週間）<br>
-    - 回収したモノによって変化するエンディングを他のプレイヤーと共有できるようにするため<br>PlayFab を用いて、プレイヤーデータの管理を担当
-    - ビルド / リリース時のバグ修正
-  - UniRx + Zenject の勉強兼 unity1week 投稿作品として連打ゲームの作成（2 週間）
-  - MV(R)P とアルゴリズムの勉強のためオセロを作成（2 週間）
+<div style="page-break-before:always"></div>
 
-## 自己PR
-私は現職で C#, Visual Basic + .NET でのフロントエンド、サーバーサイドの開発を担当しております。
-業務では限られた納期と予算内で基本 1 人での開発を行っており、コードや設計に対する理解が曖昧になることが多々あります。
-そこを補うため、趣味であるゲーム開発を通して、関連技術の学習や実装を行うなど、好きなことを突き詰めていく探求心で理解を深めています。
-特にサーバーサイドの学習では Unity と関連性の高い MagicOnion を実際に動かして、難易度の高い技術にも意欲的にチャレンジしてきました。
-持ち前の探求心とチャレンジ精神を活かし、現職ではできない御社プロジェクトの大規模なサーバーサイド開発に貢献したいと考えております。
+## 業務外活動
+### unityroom 開発
+- Ruby on Rails での Web アプリの開発の支援、バグ修正など
+  
+### Unity + C# でのゲーム開発
+- PlayFab を利用した探しモノ回収ゲームの作成 3 人での共同制作（2 週間）
+  - 回収したモノによって変化するエンディングを他のプレイヤーと共有できるようにするために PlayFab を用いたプレイヤーデータの管理を担当
+  - ビルド / リリース時のバグ修正
+  - [AIにできることはまだあるかい](https://unityroom.com/games/aicando)
+- UniRx + Zenject の勉強兼 unity1week 投稿作品として連打ゲームの作成（2 週間）
+  - [ゴリラとバナナ](https://unityroom.com/games/gorillabanana)
+  - [リポジトリ](https://github.com/eyedropsP/FueruGame)
+- MV(R)P とアルゴリズムの勉強のためリバーシを作成（2 週間）
+  - [リポジトリ](https://github.com/eyedropsP/Reversi)
+
+### 技術記事投稿
+
+- [MagicOnion を触ってみた](https://www.notion.so/Unity-Advent-Calendar-2020-12-09-MagicOnion-39abc3769e504e20b26adff40b0e86ab)
+  - MagicOnion の リポジトリを参考に Unity とローカルサーバの通信を実装するハンズオン
+- [PlayFab ExecuteCloudScriptで注意する点](https://qiita.com/eyedrops/items/397725a9517c417288a0)
+  - PlayFab の API を連続で呼び出した時に WebGL でゲームがクラッシュする時の対処法
+
+### コミュニティ参加
+
+Unity ゲーム開発者ギルド
+
+---
+
+## 意欲・興味
+
+- まずは手続き的に書いて、リファクタリングを行いつつ整ったコードにしていくことが好みです
+- 新しい技術・分野に対しては、常にアンテナを張って学習することが得意です
+- アクションゲームが好きなので、フロントエンドで数学を利用したコードが書けるようになりたいと考えております
+- 低レイヤに対する興味が湧いたので、最近マスタリング TCP/IP を読み始めました
