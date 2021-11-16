@@ -2,7 +2,7 @@
 
 ## 基本情報
 
-|||
+|key|value|
 |---|---|
 |氏名|原 大輝|
 |生年月日|1994/10/05|
@@ -14,10 +14,10 @@
 
 ## 各種アカウント
 <p>
-  <a href="https://github.com/eyedropsP" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/eyedrops-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white"></img></a>
-  <a href="https://qiita.com/eyedrops" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/eyedrops-55C500.svg?&style=flat-square&logo=qiita&logoColor=white"></img></a>
-  <a href="https://zenn.dev/ryo_kawamata" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/eyedrops-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
-  <a href="https://eyedropsp.hatenablog.com/" target="_blank"><img alt="hatena" src="https://img.shields.io/badge/eyedrops-032233.svg?&style=flat-square&logo=HatenaBookmark&logoColor=white/"></img></a>
+  <a href="https://github.com/eyedropsP" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/eyedrops-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white"></a>
+  <a href="https://qiita.com/eyedrops" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/eyedrops-55C500.svg?&style=flat-square&logo=qiita&logoColor=white"></a>
+  <a href="https://zenn.dev/ryo_kawamata" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/eyedrops-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white"></a>
+  <a href="https://eyedropsp.hatenablog.com/" target="_blank"><img alt="hatena" src="https://img.shields.io/badge/eyedrops-032233.svg?&style=flat-square&logo=HatenaBookmark&logoColor=white/"></a>
   <a href="https://twitter.com/eyedrops_p" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@eyedrops_p-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white"></a>
 </p>
 
