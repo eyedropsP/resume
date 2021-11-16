@@ -79,7 +79,6 @@
 - AffterEffects
 - Affinity Designer
 
----
 <div style="page-break-before:always"></div>
 
 ## 職務経歴詳細
