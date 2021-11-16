@@ -2,7 +2,7 @@
 
 ## 基本情報
 
-|key|value|
+|||
 |---|---|
 |氏名|原 大輝|
 |生年月日|1994/10/05|
@@ -75,8 +75,6 @@
 - AffterEffects
 - Affinity Designer
 
-<br>
-
 ---
 
 ## 職務経歴詳細
@@ -86,24 +84,20 @@
   - VB15.5 + .NETFramework4.6 で開発された WinForms アプリの修正
   - SQLServer 2015, 2017 の StoredProcedure で開発されたサーバ側のロジック修正
   - Visual C++ 2008(C89) で開発されたキーエンス製 OS 用 GUI アプリの修正
-<br><br>
 
 - 2020/01 - 2020/05 出荷検品管理システム新規開発/導入
   - C#7.3 + .NETFramework4.8 での WinForms アプリの開発
   - EntityFramework6.0.0 を使用してのコードファーストな設計
   - Visual C++ 2008(C89) でのキーエンス製 OS 用 GUI アプリの開発
-<br><br>
 
 - 2020/05 - 2021/01 在庫管理システム新規開発/導入
   - VB9.0 + .NETCompactFramework3.5 での WindowsCE 用 WinForms アプリの開発
   - 上記アプリ用に VB9.0 + .NETCompactFramework3.5 での 簡単なライブラリの作成
-<br><br>
 
 - 2021/01 - 2021/05 出荷検品管理システム新規開発/導入
   - Xamarin.Forms での Android アプリの開発
   - Prims 7.2.0 を使用した MVVM アーキテクチャでの設計
   - SQLServer 2017 の StoredProcedure, 関数でのサーバロジックの作成
-<br><br>
 
 - 2021/04 - 2022/02 新規物流システム開発/導入
   - 顧客からの要望ヒアリング, 要件定義
