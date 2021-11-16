@@ -122,7 +122,7 @@
   
 ### Unity + C# でのゲーム開発
 - PlayFab を利用した探しモノ回収ゲームの作成 3 人での共同制作（2 週間）
-  - 回収したモノによって変化するエンディングを他のプレイヤーと共有できるようにするために PlayFab を用いたプレイヤーデータの管理を担当
+  - 回収したモノによって変化するエンディングを他のプレイヤーと共有できるようにするため、 PlayFab を用いたプレイヤーデータの管理を担当
   - ビルド / リリース時のバグ修正
   - [AIにできることはまだあるかい](https://unityroom.com/games/aicando)
 - UniRx + Zenject の勉強兼 unity1week 投稿作品として連打ゲームの作成（2 週間）
@@ -136,11 +136,11 @@
 - [MagicOnion を触ってみた](https://www.notion.so/Unity-Advent-Calendar-2020-12-09-MagicOnion-39abc3769e504e20b26adff40b0e86ab)
   - MagicOnion の リポジトリを参考に Unity とローカルサーバの通信を実装するハンズオン
 - [PlayFab ExecuteCloudScriptで注意する点](https://qiita.com/eyedrops/items/397725a9517c417288a0)
-  - PlayFab の API を連続で呼び出した時に WebGL でゲームがクラッシュする時の対処法
+  - PlayFab の API を連続で呼び出した場合に WebGL でゲームがクラッシュするときの対処法
 
 ### コミュニティ参加
 
-Unity ゲーム開発者ギルド
+- Unity ゲーム開発者ギルド
 
 ---
 
