@@ -14,11 +14,11 @@
 
 ## 各種アカウント
 <p>
-  <a href="https://github.com/eyedropsP" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/eyedrops-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white"></a>
-  <a href="https://qiita.com/eyedrops" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/eyedrops-55C500.svg?&style=flat-square&logo=qiita&logoColor=white"></a>
-  <a href="https://zenn.dev/ryo_kawamata" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/eyedrops-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white"></a>
-  <a href="https://eyedropsp.hatenablog.com/" target="_blank"><img alt="hatena" src="https://img.shields.io/badge/eyedrops-032233.svg?&style=flat-square&logo=HatenaBookmark&logoColor=white/"></a>
-  <a href="https://twitter.com/eyedrops_p" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@eyedrops_p-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white"></a>
+  <a href="https://github.com/eyedropsP" target="_blank" rel="noopener"><img alt="GitHub" src="https://img.shields.io/badge/eyedrops-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white"></a>
+  <a href="https://qiita.com/eyedrops" target="_blank" rel="noopener"><img alt="Medium" src="https://img.shields.io/badge/eyedrops-55C500.svg?&style=flat-square&logo=qiita&logoColor=white"></a>
+  <a href="https://zenn.dev/ryo_kawamata" target="_blank" rel="noopener"><img alt="Zenn" src="https://img.shields.io/badge/eyedrops-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white"></a>
+  <a href="https://eyedropsp.hatenablog.com/" target="_blank" rel="noopener"><img alt="hatena" src="https://img.shields.io/badge/eyedrops-032233.svg?&style=flat-square&logo=HatenaBookmark&logoColor=white/"></a>
+  <a href="https://twitter.com/eyedrops_p" target="_blank" rel="noopener"><img alt="Twitter" src="https://img.shields.io/badge/@eyedrops_p-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white"></a>
 </p>
 
 --- 
@@ -122,21 +122,21 @@
 - PlayFab を利用した探しモノ回収ゲームの作成 3 人での共同制作（2 週間）
   - 回収したモノによって変化するエンディングを他のプレイヤーと共有できるようにするため、 PlayFab を用いたプレイヤーデータの管理を担当
   - ビルド / リリース時のバグ修正
-  - [AIにできることはまだあるかい](https://unityroom.com/games/aicando)
+  - <a href="https://unityroom.com/games/aicando" target="_blank" rel="noopener">AIにできることはまだあるかい</a>
 - UniRx + Zenject の勉強兼 unity1week 投稿作品として連打ゲームの作成（2 週間）
-  - [ゴリラとバナナ](https://unityroom.com/games/gorillabanana)
-  - [リポジトリ](https://github.com/eyedropsP/FueruGame)
+  - <a href="https://unityroom.com/games/gorillabanana" target="_blank" rel="noopener">ゴリラとバナナ</a>
+  - <a href="https://github.com/eyedropsP/FueruGame" target="_blank" rel="noopener">リポジトリ</a>
 - MV(R)P とアルゴリズムの勉強のためリバーシを作成（2 週間）
-  - [リポジトリ](https://github.com/eyedropsP/Reversi)
+  - <a href="https://github.com/eyedropsP/Reversi" target="_blank" rel="noopener">リポジトリ</a>
 
 ### unityroom 開発
 - Ruby on Rails での Web アプリの開発の支援、バグ修正など
 
 ### 技術記事投稿
 
-- [MagicOnion を触ってみた](https://www.notion.so/Unity-Advent-Calendar-2020-12-09-MagicOnion-39abc3769e504e20b26adff40b0e86ab)
+- <a href="https://www.notion.so/Unity-Advent-Calendar-2020-12-09-MagicOnion-39abc3769e504e20b26adff40b0e86ab" target="_blank" rel="noopener">MagicOnion触ってみた</a>
   - MagicOnion の リポジトリを参考に Unity とローカルサーバの通信を実装するハンズオン
-- [PlayFab ExecuteCloudScriptで注意する点](https://qiita.com/eyedrops/items/397725a9517c417288a0)
+- <a href="https://qiita.com/eyedrops/items/397725a9517c417288a0" target="_blank" rel="noopener">PlayFab ExecuteCloudScriptで注意する点</a>
   - PlayFab の API を連続で呼び出した場合に WebGL でゲームがクラッシュするときの対処法
 
 ### コミュニティ参加
