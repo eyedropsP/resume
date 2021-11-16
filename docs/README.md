@@ -35,7 +35,7 @@
 
 ### 言語
 - C# 6.0, 7.0, 8.0, 9.0
-- VB 15.5, 9.0
+- VisualBasic 15.5, 9.0
 - T-SQL
 - Ruby 2.6.7
 
@@ -89,7 +89,7 @@
   - C#7.3 + .NETFramework4.8 での WinForms アプリの開発
   - EntityFramework6.0.0 を使用してのコードファーストな設計
   - Visual C++ 2008(C89) でのキーエンス製 OS 用 GUI アプリの開発
-
+<div style="page-break-before:always"></div>
 - 2020/05 - 2021/01 在庫管理システム新規開発/導入
   - VB9.0 + .NETCompactFramework3.5 での WindowsCE 用 WinForms アプリの開発
   - 上記アプリ用に VB9.0 + .NETCompactFramework3.5 での 簡単なライブラリの作成
@@ -115,8 +115,7 @@
   
 - Unity + C# でのゲーム開発
   - PlayFab を利用した探しモノ回収ゲームの作成 3人での共同制作(２週間)<br>
-    - 回収したモノによって変化するエンディングを他のプレイヤーと共有できるようにするため<br>
-    PlayFabを用いて、プレイヤーデータの管理を担当
+    - 回収したモノによって変化するエンディングを他のプレイヤーと共有できるようにするため<br>PlayFabを用いて、プレイヤーデータの管理を担当
     - ビルド/リリース時のバグ修正
   - UniRx + Zenject の勉強兼 unity1week 投稿作品として連打ゲームの作成(2週間)
   - MV(R)P とアルゴリズムの勉強のためオセロを作成(2週間)
