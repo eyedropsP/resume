@@ -21,6 +21,8 @@
   <a href="https://twitter.com/eyedrops_p" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@eyedrops_p-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white"></a>
 </p>
 
+--- 
+
 ## 保有スキル
 
 - Unity + C# での簡単なゲーム開発
@@ -40,8 +42,6 @@
 - Visual Basic 9.0, 15.5
 - T-SQL
 - Ruby 2.6.7
-
-<div style="page-break-before:always"></div>
 
 ### フレームワーク・その他
 - .NET Framework 4.6, 4.8
@@ -78,8 +78,9 @@
 - Illustrator
 - AffterEffects
 - Affinity Designer
+- Blender
 
-<div style="page-break-before:always"></div>
+---
 
 ## 職務経歴詳細
 
@@ -113,11 +114,9 @@
 ### 株式会社コトブキソリューション（2018 / 04〜2018 / 11）
 - VB6 で開発された金融システムの改修、デバッグ
 
-<div style="page-break-before:always"></div>
+--- 
 
 ## 業務外活動
-### unityroom 開発
-- Ruby on Rails での Web アプリの開発の支援、バグ修正など
   
 ### Unity + C# でのゲーム開発
 - PlayFab を利用した探しモノ回収ゲームの作成 3 人での共同制作（2 週間）
@@ -129,6 +128,9 @@
   - [リポジトリ](https://github.com/eyedropsP/FueruGame)
 - MV(R)P とアルゴリズムの勉強のためリバーシを作成（2 週間）
   - [リポジトリ](https://github.com/eyedropsP/Reversi)
+
+### unityroom 開発
+- Ruby on Rails での Web アプリの開発の支援、バグ修正など
 
 ### 技術記事投稿
 
