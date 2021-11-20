@@ -40,45 +40,45 @@
 ## 技術スタック
 
 ### 言語
-- C# 6.0, 7.0, 8.0, 9.0 （3 年）
-- Visual Basic 9.0, 15.5 （2 年）
-- T-SQL （2 年）
-- Ruby 2.6.7 （6 ヵ月）
+- C# 6.0, 7.0, 8.0, 9.0（3 年）
+- Visual Basic 9.0, 15.5（2 年）
+- T-SQL（2 年）
+- Ruby 2.6.7（6 ヵ月）
 
 ### フレームワーク・その他
-- .NET Framework 4.6, 4.8 （3 年）
-- .NET Core 3.0, 5.0 （1 年）
-- .NET Standard 2.1 （1 年）
-- .NET 5.0 （1 年）
-- SQLServer 2017, 2019 （3 年）
-- Rails 5.1.6, 5.2.6 （6 ヵ月）
-- AWS （2 年）
+- .NET Framework 4.6, 4.8（3 年）
+- .NET Core 3.0, 5.0（1 年）
+- .NET Standard 2.1（1 年）
+- .NET 5.0（1 年）
+- SQLServer 2017, 2019（3 年）
+- Rails 5.1.6, 5.2.6（6 ヵ月）
+- AWS（2 年）
 
 ### IDE
-- VisualStudio 2017, 2019 （3 年）
-- Rider （2 年）
-- ReSharper 2.8, 2021.2.1 （2 年）
+- VisualStudio 2017, 2019（3 年）
+- Rider（2 年）
+- ReSharper 2.8, 2021.2.1（2 年）
 
 ### バージョン管理
-- Git （3 年）
-- Fork （2 年）
+- Git（3 年）
+- Fork（2 年）
 
 ### サードパーティライブラリ
-- UniRx （1 年）
-- UniTask （6 ヵ月）
-- Zenject （1 ヵ月）
-- VContainer （1 ヵ月）
-- ReactiveExtensions （6 ヵ月）
-- ReactiveProperty （6 ヵ月）
-- EntityFramework Core 6 （3 ヵ月）
-- CsvHelper （3 ヵ月）
+- UniRx（1 年）
+- UniTask（6 ヵ月）
+- Zenject（1 ヵ月）
+- VContainer（1 ヵ月）
+- ReactiveExtensions（6 ヵ月）
+- ReactiveProperty（6 ヵ月）
+- EntityFramework Core 6（3 ヵ月）
+- CsvHelper（3 ヵ月）
 
 ### その他
-- Photoshop （3 ヵ月）
-- Illustrator （1 ヵ月）
-- AffterEffects （3 ヵ月）
-- Affinity Designer （3 ヵ月）
-- Blender （1 年）
+- Photoshop（3 ヵ月）
+- Illustrator（1 ヵ月）
+- AffterEffects（3 ヵ月）
+- Affinity Designer（3 ヵ月）
+- Blender（1 年）
 
 ---
 
@@ -107,7 +107,7 @@
 - **その他**
   - Git でバージョン管理
   - Backlog でのタスク管理、スケジュール管理
-  - SQLServer のDBスキーマを Git で管理しやすくするため SSDT の導入を提案
+  - SQLServer の DB スキーマを Git で管理しやすくするため SSDT の導入を提案
 
 2021/01 - 2021/05 出荷検品管理システム新規開発/導入
 - **プロジェクト規模 :**
@@ -219,7 +219,7 @@
 
 ### 技術記事投稿
 
-- <a href="https://www.notion.so/Unity-Advent-Calendar-2020-12-09-MagicOnion-39abc3769e504e20b26adff40b0e86ab" target="_blank" rel="noopener">MagicOnion触ってみた</a>
+- <a href="https://www.notion.so/Unity-Advent-Calendar-2020-12-09-MagicOnion-39abc3769e504e20b26adff40b0e86ab" target="_blank" rel="noopener">MagicOnion 触ってみた</a>
   - MagicOnion の リポジトリを参考に Unity とローカルサーバの通信を実装するハンズオン
 - <a href="https://qiita.com/eyedrops/items/397725a9517c417288a0" target="_blank" rel="noopener">PlayFab ExecuteCloudScript で注意する点</a>
   - PlayFab の API を連続で呼び出した場合に WebGL でゲームがクラッシュするときの対処法
@@ -231,10 +231,12 @@
 ### コミュニティ参加
 
 - Unity ゲーム開発者ギルド
-  - Unity エンジニアをはじめ、イラストレーターやデザイナー、ゲーム業界で働かれている方や個人でゲーム開発をされている方など、
+  - Unity エンジニアをはじめ、イラストレーターやデザイナー、
+    ゲーム業界で働かれている方や個人でゲーム開発をされている方など、
     何らかの形でゲーム開発に関わっている人が集まったコミュニティへ参加させていただいております<br>
-    基本的にゲーム関連の話が多く、いろいろな方と交流させていただいております<br>
-    また、コミュニティにできる限り貢献できるよう、Unity に限らず自分に説明できることそアドバイスさせていただいております<br>
+    基本的にゲーム関連の話が多く、さまざまな方と交流させていただいております<br>
+    また、コミュニティにできる限り貢献できるよう、Unity に限らず自分に説明できることを
+    アドバイスさせていただいております<br>
     
 ---
 
