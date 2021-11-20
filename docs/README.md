@@ -226,7 +226,7 @@
 ### 技術記事投稿
 
 - <a href="https://www.notion.so/Unity-Advent-Calendar-2020-12-09-MagicOnion-39abc3769e504e20b26adff40b0e86ab" target="_blank" rel="noopener">MagicOnion 触ってみた</a>
-  - MagicOnion の リポジトリを参考に Unity とローカルサーバの通信を実装するハンズオン
+  - MagicOnion のリポジトリを参考に Unity とローカルサーバの通信を実装するハンズオン
 - <a href="https://qiita.com/eyedrops/items/397725a9517c417288a0" target="_blank" rel="noopener">PlayFab ExecuteCloudScript で注意する点</a>
   - PlayFab の API を連続で呼び出した場合に WebGL でゲームがクラッシュするときの対処法
 - <a href="https://zenn.dev/eyedrops/articles/0de1880f36daad" target="_blank" rel="noopener">Kotlin Native の .konan フォルダの場所を変える</a>
