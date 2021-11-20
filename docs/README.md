@@ -25,67 +25,67 @@
 
 ## 保有スキル
 ### 業務経験
-- C# + .NET での GUI アプリケーションのクライアントサイド開発(3 年)
-- SQLServer での StoredProcedure、関数を利用してサーバ側ビジネスロジックの作成(3 年)
-- レイヤードアーキテクチャを意識した開発 / 設計(1 年)
-- SOLID 原則を意識した開発 / 設計(3 年)
+- C# + .NET での GUI アプリケーションのクライアントサイド開発（3 年）
+- SQLServer での StoredProcedure、関数を利用してサーバ側ビジネスロジックの作成（3 年）
+- レイヤードアーキテクチャを意識した開発 / 設計（1 年）
+- SOLID 原則を意識した開発 / 設計（3 年）
 ### 個人開発
-- Unity + C# での小規模なゲームの開発(2 年)
-- Ruby on Rails での Web アプリ開発(6 ヵ月)
-- GitHub での issue ベースのチーム開発(6 ヵ月)
-- AffterEffects での動画作成（簡単なアニメーション、トランジションなど）(6 ヵ月)
+- Unity + C# での小規模なゲームの開発（2 年）
+- Ruby on Rails での Web アプリ開発（6 ヵ月）
+- GitHub での issue ベースのチーム開発（6 ヵ月）
+- AffterEffects での動画作成（簡単なアニメーション、トランジションなど）（6 ヵ月）
 
 ---
 
 ## 技術スタック
 
 ### 言語
-- C# 6.0, 7.0, 8.0, 9.0 (3 年)
-- Visual Basic 9.0, 15.5 (2 年)
-- T-SQL (2 年)
-- Ruby 2.6.7 (6 ヵ月)
+- C# 6.0, 7.0, 8.0, 9.0 （3 年）
+- Visual Basic 9.0, 15.5 （2 年）
+- T-SQL （2 年）
+- Ruby 2.6.7 （6 ヵ月）
 
 ### フレームワーク・その他
-- .NET Framework 4.6, 4.8 (3 年)
-- .NET Core 3.0, 5.0 (1 年)
-- .NET Standard 2.1 (1 年)
-- .NET 5.0 (1 年)
-- SQLServer 2017, 2019 (3 年)
-- Rails 5.1.6, 5.2.6 (6 ヵ月)
-- AWS (2 年)
+- .NET Framework 4.6, 4.8 （3 年）
+- .NET Core 3.0, 5.0 （1 年）
+- .NET Standard 2.1 （1 年）
+- .NET 5.0 （1 年）
+- SQLServer 2017, 2019 （3 年）
+- Rails 5.1.6, 5.2.6 （6 ヵ月）
+- AWS （2 年）
 
 ### IDE
-- VisualStudio 2017, 2019 (3 年)
-- Rider (2 年)
-- ReSharper 2.8, 2021.2.1 (2 年)
+- VisualStudio 2017, 2019 （3 年）
+- Rider （2 年）
+- ReSharper 2.8, 2021.2.1 （2 年）
 
 ### バージョン管理
-- Git (3 年)
-- Fork (2 年)
+- Git （3 年）
+- Fork （2 年）
 
 ### サードパーティライブラリ
-- UniRx (1 年)
-- UniTask (6 ヵ月)
-- Zenject (1 ヵ月)
-- VContainer (1 ヵ月)
-- ReactiveExtensions (6 ヵ月)
-- ReactiveProperty (6 ヵ月)
-- EntityFramework Core 6 (3 ヵ月)
-- CsvHelper (3 ヵ月)
+- UniRx （1 年）
+- UniTask （6 ヵ月）
+- Zenject （1 ヵ月）
+- VContainer （1 ヵ月）
+- ReactiveExtensions （6 ヵ月）
+- ReactiveProperty （6 ヵ月）
+- EntityFramework Core 6 （3 ヵ月）
+- CsvHelper （3 ヵ月）
 
 ### その他
-- Photoshop (3 ヵ月)
-- Illustrator (1 ヵ月)
-- AffterEffects (3 ヵ月)
-- Affinity Designer (3 ヵ月)
-- Blender (1 年)
+- Photoshop （3 ヵ月）
+- Illustrator （1 ヵ月）
+- AffterEffects （3 ヵ月）
+- Affinity Designer （3 ヵ月）
+- Blender （1 年）
 
 ---
 
 ## 職務経歴詳細
 
 ### 株式会社オンザリンクス（2019/03〜現在）
-2021/04 - 2022/02(予定) 新規物流システム開発/導入
+2021/04 - 2022/02（予定） 新規物流システム開発/導入
 - **プロジェクト規模 :**
   - 3 人のチーム
 
@@ -201,37 +201,38 @@
 ## 業務外活動
   
 ### Unity + C# でのゲーム開発
-- MV(R)P とアルゴリズムの勉強のためリバーシを作成（1 週間 : 24時間）
+- MV(R)P とアルゴリズムの勉強のためリバーシを作成（1 週間 : 24 時間）
   - <a href="https://github.com/eyedropsP/Reversi" target="_blank" rel="noopener">リポジトリ</a>
-- UniRx + Zenject の勉強兼 unity1week 投稿作品として連打ゲームの作成（2 週間 : 60時間）
+- UniRx + Zenject の勉強兼 unity1week 投稿作品として連打ゲームの作成（2 週間 : 60 時間）
   - <a href="https://unityroom.com/games/gorillabanana" target="_blank" rel="noopener">ゴリラとバナナ</a>
   - <a href="https://github.com/eyedropsP/FueruGame" target="_blank" rel="noopener">リポジトリ</a>
-- PlayFab を利用した探しモノ回収ゲームの作成 3 人での共同制作（2 週間 : 40時間）
+- PlayFab を利用した探しモノ回収ゲームの作成 3 人での共同制作（2 週間 : 40 時間）
   - 回収したモノによって変化するエンディングを他のプレイヤーと共有できるようにするため、 PlayFab を用いたプレイヤーデータの管理を担当
   - ビルド / リリース時のバグ修正
-  - <a href="https://unityroom.com/games/aicando" target="_blank" rel="noopener">AIにできることはまだあるかい</a>
+  - <a href="https://unityroom.com/games/aicando" target="_blank" rel="noopener">AI にできることはまだあるかい</a>
 
 ### unityroom 開発
 - <a href="https://unityroom.com/" target="_blank" rel="noopener">unityroom</a>
 - Ruby on Rails での Web アプリの開発の支援、バグ修正など
 - 2 人で開発していたところに参加させていただきました
-- issue を立て、機能追加や修正の PR を送る開発体制です
+- issue を立て、機能追加や修正の PR を送る開発体制
 
 ### 技術記事投稿
 
 - <a href="https://www.notion.so/Unity-Advent-Calendar-2020-12-09-MagicOnion-39abc3769e504e20b26adff40b0e86ab" target="_blank" rel="noopener">MagicOnion触ってみた</a>
   - MagicOnion の リポジトリを参考に Unity とローカルサーバの通信を実装するハンズオン
-- <a href="https://qiita.com/eyedrops/items/397725a9517c417288a0" target="_blank" rel="noopener">PlayFab ExecuteCloudScriptで注意する点</a>
+- <a href="https://qiita.com/eyedrops/items/397725a9517c417288a0" target="_blank" rel="noopener">PlayFab ExecuteCloudScript で注意する点</a>
   - PlayFab の API を連続で呼び出した場合に WebGL でゲームがクラッシュするときの対処法
 - <a href="https://zenn.dev/eyedrops/articles/0de1880f36daad" target="_blank" rel="noopener">Kotlin Native の .konan フォルダの場所を変える</a>
   - Kotlin 依存ライブラリのディレクトリを指定する方法
-- <a href="https://zenn.dev/eyedrops/articles/f53c2b11e9c022" target="_blank" rel="noopener">Xamarin.FormsでEntryのフォーカスコントロール</a>
+- <a href="https://zenn.dev/eyedrops/articles/f53c2b11e9c022" target="_blank" rel="noopener">Xamarin.Forms で Entry のフォーカスコントロール</a>
   - Xamarin.Forms でハードウェアキーボードを使用したときのフォーカスをコントロールする方法
 
 ### コミュニティ参加
 
 - Unity ゲーム開発者ギルド
-  - Unity エンジニアをはじめ、イラストレーターやデザイナー、ゲーム業界で働かれている方や個人でゲーム開発をされている方など、何らかの形でゲーム開発に関わっている人が集まったコミュニティに参加させていただいております<br>
+  - Unity エンジニアをはじめ、イラストレーターやデザイナー、ゲーム業界で働かれている方や個人でゲーム開発をされている方など、
+    何らかの形でゲーム開発に関わっている人が集まったコミュニティへ参加させていただいております<br>
     基本的にゲーム関連の話が多く、いろいろな方と交流させていただいております<br>
     また、コミュニティにできる限り貢献できるよう、Unity に限らず自分に説明できることそアドバイスさせていただいております<br>
     
