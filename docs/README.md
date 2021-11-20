@@ -13,6 +13,7 @@
 ---
 
 ## 各種アカウント
+
 <p>
   <a href="https://github.com/eyedropsP" target="_blank" rel="noopener"><img alt="GitHub" src="https://img.shields.io/badge/eyedrops-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white"></a>
   <a href="https://qiita.com/eyedrops" target="_blank" rel="noopener"><img alt="Medium" src="https://img.shields.io/badge/eyedrops-55C500.svg?&style=flat-square&logo=qiita&logoColor=white"></a>
@@ -24,12 +25,16 @@
 ---
 
 ## 保有スキル
+
 ### 業務経験
+
 - C# + .NET での GUI アプリケーションのクライアントサイド開発（3 年）
 - SQLServer での StoredProcedure、関数を利用してサーバ側ビジネスロジックの作成（3 年）
 - レイヤードアーキテクチャを意識した開発 / 設計（1 年）
 - SOLID 原則を意識した開発 / 設計（3 年）
+
 ### 個人開発
+
 - Unity + C# での小規模なゲームの開発（2 年）
 - Ruby on Rails での Web アプリ開発（6 ヵ月）
 - GitHub での issue ベースのチーム開発（6 ヵ月）
@@ -40,12 +45,14 @@
 ## 技術スタック
 
 ### 言語
+
 - C# 6.0, 7.0, 8.0, 9.0（3 年）
 - Visual Basic 9.0, 15.5（2 年）
 - T-SQL（2 年）
 - Ruby 2.6.7（6 ヵ月）
 
 ### フレームワーク・その他
+
 - .NET Framework 4.6, 4.8（3 年）
 - .NET Core 3.0, 5.0（1 年）
 - .NET Standard 2.1（1 年）
@@ -55,15 +62,18 @@
 - AWS（2 年）
 
 ### IDE
+
 - VisualStudio 2017, 2019（3 年）
 - Rider（2 年）
 - ReSharper 2.8, 2021.2.1（2 年）
 
 ### バージョン管理
+
 - Git（3 年）
 - Fork（2 年）
 
 ### サードパーティライブラリ
+
 - UniRx（1 年）
 - UniTask（6 ヵ月）
 - Zenject（1 ヵ月）
@@ -74,6 +84,7 @@
 - CsvHelper（3 ヵ月）
 
 ### その他
+
 - Photoshop（3 ヵ月）
 - Illustrator（1 ヵ月）
 - AffterEffects（3 ヵ月）
@@ -85,6 +96,7 @@
 ## 職務経歴詳細
 
 ### 株式会社オンザリンクス（2019/03〜現在）
+
 新規物流システム開発/導入。
 - **プロジェクト規模 :**
   - 3 人のチーム
@@ -187,6 +199,7 @@
   - Windows10
 
 ### 株式会社コトブキソリューション（2018/04〜2018/11）
+
 金融システムの改修デバッグ。
 - **プロジェクト規模 :**
   - 3 人のチーム
@@ -207,6 +220,7 @@
 ## 業務外活動
   
 ### Unity + C# でのゲーム開発
+
 - MV(R)P とアルゴリズムの勉強のためリバーシを作成（1 週間 : 24 時間）
   - <a href="https://github.com/eyedropsP/Reversi" target="_blank" rel="noopener">リポジトリ</a>
 - UniRx + Zenject の勉強兼 unity1week 投稿作品として連打ゲームの作成（2 週間 : 60 時間）
@@ -218,6 +232,7 @@
   - <a href="https://unityroom.com/games/aicando" target="_blank" rel="noopener">AI にできることはまだあるかい</a>
 
 ### unityroom 開発
+
 - <a href="https://unityroom.com/" target="_blank" rel="noopener">unityroom</a>
 - Ruby on Rails での Web アプリの開発の支援、バグ修正など
 - 以前より 2 人で開発していたところに参加
