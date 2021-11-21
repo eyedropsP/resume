@@ -234,7 +234,7 @@
 
 ### unityroom 開発
 - プロジェクト規模 :
-  - 3名
+  - 3 名
 
 - プロジェクト詳細 :
   - <a href="https://unityroom.com/" target="_blank" rel="noopener">unityroom</a>
