@@ -17,23 +17,18 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v4
+      
       - name: over-sh/setup-bun
         uses: oven-sh/setup-bun@v2 # v2
+      
       - name: bun install
         run: bun install --no-save
+      
       - name: bun build:pdf
         run: bun build:pdf
-      - name: create draft release
-        uses: softprops/action-gh-release@v2 # v2
-        with:
-          body: ${{ github.event.pull_request.title }}
-          draft: true
-          fail_on_unmatched_files: true
-          files: docs/README.pdf
-          tag_name: ${{ github.ref_name }}
-          name: Release ${{ github.ref_name }}
+
       - name: create release
         run: |
-          gh release new ${{ github.ref_name }} -d ./docs/README.pdf
+          gh release new ${{ github.ref }} -d './docs/README.pdf# Release PDF'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
