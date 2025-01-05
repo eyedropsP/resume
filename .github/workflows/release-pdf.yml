@@ -2,7 +2,7 @@ name: Release PDF
 
 on:
   pull_request:
-    branches: [master]
+    branches: [main]
     paths: [docs/README.pdf]
   workflow_dispatch:
 
@@ -16,15 +16,15 @@ jobs:
       pull-requests: write
     steps:
       - name: checkout
-        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
+        uses: actions/checkout@v4
       - name: over-sh/setup-bun
-        uses: oven-sh/setup-bun@4bc047ad259df6fc24a6c9b0f9a0cb08cf17fbe5 # v2
+        uses: oven-sh/setup-bun@v2 # v2
       - name: bun install
         run: bun install --no-save
       - name: bun build:pdf
         run: bun build:pdf
       - name: create draft release
-        uses: softprops/action-gh-release@e7a8f85e1c67a31e6ed99a94b41bd0b71bbee6b8 # v2
+        uses: softprops/action-gh-release@v2 # v2
         with:
           body: ${{ github.event.pull_request.title }}
           draft: true
