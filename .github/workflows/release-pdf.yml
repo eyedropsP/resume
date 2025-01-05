@@ -17,16 +17,12 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v4
-      
       - name: over-sh/setup-bun
         uses: oven-sh/setup-bun@v2 # v2
-      
       - name: bun install
         run: bun install --no-save
-      
       - name: bun build:pdf
         run: bun build:pdf
-
       - name: create release
         run: |
           gh release new ${{ github.ref }} -d './docs/README.pdf# Release PDF'
