@@ -30,3 +30,10 @@ jobs:
           draft: true
           fail_on_unmatched_files: true
           files: docs/README.pdf
+          tag_name: ${{ github.ref_name }}
+          name: Release ${{ github.ref_name }}
+      - name: create release
+        run: |
+          gh release new ${{ github.ref_name }} -d ./docs/README.pdf
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
