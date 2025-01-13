@@ -69,9 +69,13 @@
 - ASP.NET Core（3 年）
 - SQLServer 2017, 2019（4 年）
 - Azure SQL Database（3 年）
+- Azure Functions（3 年）
 - Rails 5.1.6, 5.2.6（6 ヵ月）
 - Azure（3 年）
+- Blazor（2 年）
+- Redis（3 年）
 - AWS（2 年）
+
 
 ### ゲームエンジン
 
@@ -98,6 +102,14 @@
 - ReactiveProperty（6 ヵ月）
 - EntityFramework Core 6（3 ヵ月）
 - CsvHelper（3 ヵ月）
+- CloudStructures（2 年）
+- ConsoleAppFramework（2 年）
+- NSubstitute（1 年）
+- Microsoft.EntityFrameworkCore.Abstractions（3 年）
+- Microsoft.EntityFrameworkCore.Design（3 年）
+- Microsoft.EntityFrameworkCore.SqlServer（3 年）
+- QLimitive（3 年）
+
 
 ### その他
 
